@@ -112,3 +112,21 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## Creating the plots
+
+### to create plot 1
+* source("plot1.R")
+* createPlot1()
+
+### to create plot 2
+* source("plot2.R")
+* createPlot2()
+
+### to create plot 3
+* source("plot3.R")
+* createPlot3()
+
+### to create plot 4
+* source("plot4.R")
+* createPlot4()
