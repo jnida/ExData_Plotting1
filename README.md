@@ -114,6 +114,8 @@ The four plots that you will need to construct are shown below.
 
 
 ## Creating the plots
+To create the plots the data must be located in
+./data/household_power_consumption.txt
 
 ### to create plot 1
 * source("plot1.R")
